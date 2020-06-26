@@ -55,42 +55,7 @@ h2{
 }
 
 /* our team */
-.team{
-text-align: center;
-  background-color: #ff4c68;
-  color:#ffff;
-}
 
-.prakash{
-  width: 25%;
-border-radius: 100%;
-padding: 20px;
-}
-
-.nitish{
-  width: 25%;
-border-radius: 100%;
-padding: 20px;
-}
-.somya{
-  width: 25%;
-border-radius: 100%;
-padding: 20px;
-}
-.rohit{
-  width: 25%;
-border-radius: 100%;
-padding: 20px;
-}
-.noopur{
-  width: 25%;
-border-radius: 100%;
-}
-.riya{
-  width: 25%;
-border-radius: 100%;
-padding: 20px;
-}
 
 /* footer */
 
@@ -120,36 +85,4 @@ padding: 20px;
 
 @media (max-width :992px) {
 
-  .prakash{
-    width: 50%;
-  border-radius: 100%;
-  padding: 20px;
-  }
-
-  .nitish{
-    width: 50%;
-  border-radius: 100%;
-  padding: 20px;
-  }
-  .somya{
-    width: 50%;
-  border-radius: 100%;
-  padding: 20px;
-  }
-  .rohit{
-    width: 50%;
-  border-radius: 100%;
-  padding: 20px;
-  }
-  .noopur{
-    width: 50%;
-  border-radius: 100%;
-  }
-  .riya{
-    width: 50%;
-  border-radius: 100%;
-  padding: 20px;
-  }
-
-
-}
+   
