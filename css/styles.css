@@ -98,8 +98,28 @@ padding-top:6%;
 .card-body{
   padding:3% 5%;
 }
+/* footer */
+
 #footer{
   padding: 50px;
   text-align: center;
-background-color: #96bb7c;
+}
+.insta{
+  color:black;
+  padding:50px 50px;
+}
+.fb{
+  color:blue;
+  padding:50px 50px;
+}
+.youtube{
+  color:red;
+  padding:50px 50px;
+}
+.gmail{
+  color:#d92027;
+  padding:50px 50px;
+}
+.fab:hover{
+  color:black;
 }
